@@ -1,0 +1,67 @@
+[05-Jul-2018 16:01:43 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 16:01:43 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 16:01:43 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 16:01:43 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[05-Jul-2018 16:27:19 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 16:27:19 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 16:27:19 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 16:27:19 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 16:27:40 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[05-Jul-2018 19:14:46 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 19:14:46 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 19:14:46 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 19:14:46 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[05-Jul-2018 19:52:10 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 17
+[05-Jul-2018 19:52:10 America/Sao_Paulo] PHP Notice:  Undefined variable: userImage in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 20
+[05-Jul-2018 19:52:10 America/Sao_Paulo] PHP Notice:  Undefined variable: userName in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 32
+[05-Jul-2018 19:52:10 America/Sao_Paulo] PHP Notice:  Undefined variable: userMail in /home/publish1/felipeferreiracampos.com.br/view/home.php on line 39
+[02-Aug-2018 21:32:38] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:32:42] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:40] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:41] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:42] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:48] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:49] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:50] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:50] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:33:51] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:39:03] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:40:44] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:40:44] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:40:55] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:41:51] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:41:51] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:42:12] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:42:13] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:42:14] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:42:15] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:42:16] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:43:34] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:44:41] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 21:48:08] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:12:27] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:12:30] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:12:31] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:12:54] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:14:33] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:19:50] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:27:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/felipefe/public_html/libs/PHPMailer/Exception.php on line 21
+[02-Aug-2018 22:27:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/felipefe/public_html/libs/PHPMailer/Exception.php on line 21
+[02-Aug-2018 22:27:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/felipefe/public_html/libs/PHPMailer/Exception.php on line 21
+[02-Aug-2018 22:28:05] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:28:06] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[02-Aug-2018 22:36:31] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 08:02:28] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 08:31:03] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 11:05:36] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 11:56:20] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 18:34:38] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 18:46:06] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25
+[03-Aug-2018 18:46:07] PHP Parse error:  syntax error, unexpected '[' in /home/felipefe/public_html/config.php on line 25

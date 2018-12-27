@@ -1,0 +1,251 @@
+*{
+ padding:0;
+ margin:0;
+ box-sizing:border-box;
+}
+
+html,body{
+  height:100%;
+}
+
+main{
+  width: 100%;
+  height: auto;
+  font-size: 20px;
+  float: left;
+}
+	
+.titulo{
+  text-align:center;
+}
+
+img{
+  width:100%;
+}
+
+.icon{
+  width:30px;
+  height:30px;
+  padding:7px;
+}
+
+.icone{
+  width:64px;
+  height:64px;
+}
+
+h4{
+	text-align:center;
+}
+
+ul{
+  list-style:none;
+  text-align:center;
+}
+
+li a{
+  list-style:none;
+	text-decoration:none;
+	color:#444;
+	font-size:16px;
+}
+form,select,input{
+	padding:12px;
+	width:100%;
+	font-size:1em; 
+	margin:0 auto;
+}
+
+
+
+button{
+	padding:15px;
+	width:100%;
+	background-color:#666;
+	font-size:1em;
+	color:#fff;
+	border-bottom:2px solid #999;
+	cursor:pointer;
+}
+button:hover{
+	background-color:#999;
+}
+
+
+
+#map{
+	
+	width:100%;
+	height:700px;
+	margin:0 auto;
+}
+
+.controls {
+margin-top: 10px;
+border: 1px solid transparent;
+border-radius: 2px 0 0 2px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+height: 32px;
+outline: none;
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.demo-card-square.mdl-card {
+width: 320px;
+height: 320px;
+margin: 0 auto;
+}
+
+
+/*Perfil*/
+.kv-avatar .file-preview-frame,.kv-avatar .file-preview-frame:hover {
+margin: 0;
+padding: 0;
+border: none;
+box-shadow: none;
+text-align: center;
+}
+
+.kv-avatar .file-input {
+    display: table-cell;
+    max-width: 220px;
+}
+
+.image{
+ width:200px;
+ height:200px;
+ margin: 0 auto;
+}
+/*Perfil*/
+
+.material{
+  margin:0 auto;
+  width:64px;
+  height:64px;
+  margin-top:10%;
+}
+.box{
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 0.8em;
+}
+
+p  {
+    font-size:14px;
+    font-weight:400;
+    line-height:14px !important;
+    letter-spacing: 0;
+    margin-bottom:14px !important;
+}
+
+ul, ol {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0;
+}
+
+.full__box{
+  width:100%;
+  height:100%; 
+  text-align:center;
+}
+
+.box{
+  margin:0 auto;
+  width:300px;
+  height:300px;
+  background-color:#f0f0f0;
+  border-radius:5px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:0.8em;
+
+}
+.box_master{
+  margin:0 auto;
+  width:300px;
+  height:500px;
+  background-color:#f0f0f0;
+  border-radius:5px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:1em;
+
+}
+.icone{
+  width:64px;
+  height:64px;
+  margin-top:10px;
+
+}
+
+.paragrafo{
+  font-size:1.3em;
+
+}
+
+.error-message
+{
+  width: 90%;
+  margin: 0 5%;
+  border-radius: 7px;
+  font-size: 1.2em;
+  border: 1px solid #666;
+}
+
+.error-message .warning
+{
+  padding: 10px;
+  background-color: #C51162;
+  color: #FFF;
+  border-radius: 7px;
+}
+
+.error-message .accept
+{
+  padding: 10px;
+  background-color: #1681ce;
+  color: #FFF;
+  border-radius: 7px;
+}
+
+/* classe que trata o validate */
+.error
+{
+  color: #ec407a;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active 
+{
+  transition: background-color 5000s ease-in-out 0s; border: 1px solid rgba(47, 49, 51, .3);
+}
+
+input[type=text],input[type=search],input[type=password], input[type=email], input[type=number]{outline: none;}
+
+.notfound
+{
+  background-color: #EFEEE5;
+  width: 94%;
+  margin: 0 3%;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -ms-border-radius: 10px;
+}
+
+.notfound p
+{
+  font-size: 1.1em;
+  text-align: center;
+  color: #7a7975;
+}
+
